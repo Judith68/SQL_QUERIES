@@ -2,7 +2,7 @@
 =====================================================================
                    SQL INTERVIEW PRACTICE QUERIES
 =====================================================================
-Author: Judith Chidera
+Author: Judith68
 Purpose: Sample SQL queries for practice and learning
 Note: All table and column names are generic. No real customer data included.
 =====================================================================
