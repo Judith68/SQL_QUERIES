@@ -89,8 +89,5 @@ These queries are designed for learning, practice, and portfolio demonstration.
 ## How to Use
 1. Clone this repository:
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/<JUDITH68>/sql-interview-queries.git
-=======
-git clone https://github.com/Judith68/SQL_QUERY.git
->>>>>>> aa5e8382354d39c43b779a66553e9fa27b95b399
+
+git clone https://github.com/Judith68/SQL_QUERIES.git
